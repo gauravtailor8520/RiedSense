@@ -274,9 +274,8 @@ And returns:
 
 👉 Try it on [Hugging Face](https://huggingface.co/spaces/rajesh1804/RideSense)
 
-<p align="center">
-  <img src="assets/ridesense-demo.gif" alt="Demo" width="800"/>
-</p>
+<img width="1659" height="753" alt="image" src="https://github.com/user-attachments/assets/a3c65b4e-22e3-494f-b1d4-6c993d253f2d" />
+
 
 ---
 
