@@ -13,7 +13,6 @@ pinned: false
 
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?logo=streamlit)](https://streamlit.io)  
 [![ML Stack: XGBoost + Sklearn](https://img.shields.io/badge/ML-XGBoost%2C%20Sklearn-blue?logo=scikit-learn)](https://scikit-learn.org)  
-[![Deployment: Hugging Face Spaces](https://img.shields.io/badge/Deployed%20on-HuggingFace-orange?logo=huggingface)](https://huggingface.co/spaces/rajesh1804/RideSense)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 > 🚀 **RideSense** is an intelligent ride-hailing prediction system that estimates fares and arrival times using real NYC taxi data. Built with XGBoost and quantile regression, it provides uncertainty-aware predictions through an interactive Streamlit interface.
